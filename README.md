@@ -1,3 +1,3 @@
-##  FyreTrack executorjának a hivatalos letöltési linke @Drizzy
+##  FyreTrack executorjának a hivatalos letöltési linkje @Drizzy
 
 # Release: 
