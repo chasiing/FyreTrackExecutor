@@ -1,3 +1,3 @@
 ##  FyreTrack executorjának a hivatalos letöltési linkje @Drizzy
 
-# Release: 
+# Release: https://github.com/chasiing/FyreTrackExecutor/releases/tag/FyreTrack
