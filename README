@@ -1,1 +1,22 @@
-# FyreTrack executorjának hivatalos letöltési helye!
+# FyreTrack, az okosabb megoldás
+
+A FyreTrack egy Python alapú automatizációs eszköz, amely lehetővé teszi kiegészítők automatikus megvásárlását a felhasználó által előre meghatározott áron.
+
+## Főbb funkciók
+
+* **Univerzális figyelés:** Bármilyen kiválasztott kiegészítő nyomon követésére alkalmas (Nem tudod jelenleg az összes kiegészítőt követni csak azokat amikre van igény valamint elérhetők a választékban).
+* **Egyéni árszabás:** Saját vásárlási ár adható meg (például: 21 FyreCoin és 100 FyreCoin között).
+* **Azonnali reakció:** Amint a kiegészítő elérhetővé válik a megadott áron / árakon, a rendszer automatikusan végrehajtja a tranzakciót.
+* **Valós idejű visszajelzés:** A futtató terminál folyamatosan naplózza az ellenőrzéseket és a sikeres vásárlásokat.
+
+## Működési elv és használat
+
+1. **Konfiguráció:** Válaszd ki a célozni kívánt kiegészítőt, és állítsd be a maximális vételárat.
+2. **Ár beállítás:** Állítsd be a kívánt árat, amiben szeretnél kiegészítőket vásárolni.
+3. **Indítás:** Indítsd el a scriptet a FyreTrack executorból a "Start Tracking" gombbal.
+4. **Hitelesítés:** A program megnyit egy automatizált Google böngészőablakot. Jelentkezz be a fiókodba, és navigálj a kívánt kiegészítő oldalára.
+5. **Automatizálás:** A bejelentkezést követően a script teljesen önállóan, emberi beavatkozás nélkül (AFK) végzi a figyelést és a vásárlást.
+
+## Rendszerkövetelmények
+
+A script futtatásához a számítógépen a Python legfrissebb verziójának megléte szükséges.
